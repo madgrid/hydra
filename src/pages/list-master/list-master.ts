@@ -3,6 +3,7 @@ import { NavController, ModalController } from 'ionic-angular';
 
 import { ItemCreatePage } from '../item-create/item-create';
 import { ItemDetailPage } from '../item-detail/item-detail';
+import { AssetDetailPage } from '../asset-detail/asset-detail';
 
 import { Items } from '../../providers/providers';
 
@@ -50,7 +51,7 @@ export class ListMasterPage {
    * Navigate to the detail page for this item.
    */
   openItem(item: Item) {
-    this.navCtrl.push(ItemDetailPage, {
+    this.navCtrl.push(AssetDetailPage, {
       item: item
     });
   }

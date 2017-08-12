@@ -15,6 +15,7 @@
   "MAP_TITLE": "Map",
 
   "TUTORIAL_SKIP_BUTTON" : "Skip",
+  "TUTORIAL_ACCOUNT_BUTTON": "Account",
   "TUTORIAL_CONTINUE_BUTTON" : "Continue",
 
   "TUTORIAL_SLIDE1_TITLE": "Welcome to the Ionic Super Starter",
@@ -26,7 +27,7 @@
   "TUTORIAL_SLIDE3_TITLE": "Getting Started",
   "TUTORIAL_SLIDE3_DESCRIPTION": "Need help? Check out the Super Starter README for a full tutorial",
 
-  "TUTORIAL_SLIDE4_TITLE": "Ready to Play?",
+  "TUTORIAL_SLIDE4_TITLE": "Ready to unleash your trading hydra?",
 
   "WELCOME_INTRO" : "The starting point for your next great Ionic app",
 
